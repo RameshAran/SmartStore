@@ -1,0 +1,20 @@
+PODS:
+  - BBBadgeBarButtonItem (1.2)
+  - Realm (2.1.0):
+    - Realm/Headers (= 2.1.0)
+  - Realm/Headers (2.1.0)
+  - RealmSwift (2.1.0):
+    - Realm (= 2.1.0)
+
+DEPENDENCIES:
+  - BBBadgeBarButtonItem
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  BBBadgeBarButtonItem: c2fbca0bff18e21b70defc9438a8a5048008e7ca
+  Realm: bc829ad0ef3d4eea70c34cfcc3b1704d18d50df1
+  RealmSwift: a4d4abbf0088c337cab5b738054395842e4b3052
+
+PODFILE CHECKSUM: 4c1fa8dc4429bc0054d28163939db98cb17cf91d
+
+COCOAPODS: 1.1.1

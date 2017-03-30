@@ -1,0 +1,60 @@
+{
+    "items": [
+                {
+                "id": 0,
+                "productName": "Microwave oven",
+                "price": 2500,
+                "imageUrl": "http://www.curelasers.com/uploads/3/1/3/5/31355843/5906907.png",
+                "category": "Electronics",
+                "quantity": 4
+                },
+                {
+                "id": 1,
+                "productName": "Television",
+                "price": 18000,
+                "imageUrl": "http://cdn.ndtv.com/tech/images/benq_l700_series_led.jpg",
+                "category": "Electronics",
+                "quantity": 3
+                },
+                {
+                "id": 2,
+                "productName": "Vacuum Cleaner",
+                "price": 7677,
+                "imageUrl": "https://n3.sdlcdn.com/imgs/a/h/8/Eureka-Forbes-Euroclean-Wet-Dry-SDL181943413-1-4082f.jpg",
+                "category": "Electronics",
+                "quantity": 2
+                },
+                {
+                "id": 3,
+                "productName": "Table",
+                "price": 3900,
+                "imageUrl": "https://www.knoll.com/static_resources/images/products/catalog/eco/parts/642TR/642TR-KC_KC_FZ.jpg",
+                "category": "Furniture",
+                "quantity": 6
+                },
+                {
+                "id": 4,
+                "productName": "Chair",
+                "price": 780,
+                "imageUrl": "https://1.fimg.in/p/truhome-2440-977302-1-catalog_360.jpg",
+                "category": "Furniture",
+                "quantity": 2
+                },
+                {
+                "id": 5,
+                "productName": "Almirah",
+                "price": 6700,
+                "imageUrl": "http://angelagencies.in/image/cache/data/Products/Furniture/almirah/almirah_11-angel-agencies-main-500x500.jpg",
+                "category": "Furniture",
+                "quantity": 4
+                },
+                {
+                "id": 6,
+                "productName": "Noodles",
+                "price": 45,
+                "imageUrl": "https://abutts.files.wordpress.com/2012/04/maruchen-ramen-500x500.jpg",
+                "category": "Other",
+                "quantity": 5
+                }
+                ]
+}
